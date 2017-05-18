@@ -13,7 +13,7 @@ namespace SocialLoginApp
         {
             InitializeComponent();
 
-            MainPage = new SocialLoginApp.MainPage();
+            MainPage = new SocialLoginApp.Views.MainPage();
         }
 
         protected override void OnStart()
